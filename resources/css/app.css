@@ -7842,3 +7842,6 @@ div.box3 {
   -moz-border-radius: 15px;
   border-radius: 15px;
 }
+.fa-border-red {
+  border-color: #fc9797;
+}
